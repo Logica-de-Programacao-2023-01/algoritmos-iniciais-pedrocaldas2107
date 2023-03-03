@@ -1,0 +1,6 @@
+digitar um valor em celsius ou fahenheit
+se o valor dado estiver em celsius conveta o 
+valor para fahrenheit 
+se o valor dado estiver em fahenheit converta o 
+valor para celsius 
+resultar o valr convertido
