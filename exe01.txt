@@ -1,0 +1,3 @@
+digitar 2 numeros 
+realizar a soma dos numeros inseridos 
+informar o valor gerado pela soma dos numeros
