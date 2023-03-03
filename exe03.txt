@@ -1,0 +1,7 @@
+solicitar uma lista de numeros 
+fazer a variavel soma com 0 
+para cada numero da lista faça:
+adicione o numero a variavel soma
+calcular a média dividindo a variavel soma pelo 
+tamanho da lista 
+resultar a média 
