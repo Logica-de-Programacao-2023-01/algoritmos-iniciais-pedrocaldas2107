@@ -1,6 +1,8 @@
-digitar um valor em celsius ou fahenheit
-se o valor dado estiver em celsius conveta o 
-valor para fahrenheit 
-se o valor dado estiver em fahenheit converta o 
-valor para celsius 
-resultar o valr convertido
+identificar temperatura 
+identificar unidade
+se a unidade igual a celsius: 
+resultado = temperatura * 1.8 + 32
+digite o resultado é resultado
+senão:
+resultado = (temperatura - 32)/1.8
+escreva o resultado é resultado
